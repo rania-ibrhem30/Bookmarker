@@ -1,0 +1,37 @@
+.line{
+ color: #999; 
+ font-size: 1px;
+}
+h1,h2,button{
+    color: rgb(255, 249, 249);
+    font-family: 'Alfa Slab One', cursive;
+
+
+}
+
+
+
+section{
+    width:80%;
+	margin : 15px auto;
+}
+ .container{
+    border-top: 1px solid rgb(195, 184, 184);
+    
+  
+}
+body{
+    background-image: url(/1.jpg);
+    background-position: center center;
+    background-size: cover;
+    color:rgb(5, 2, 2);
+    -webkit-filter:;
+}
+.well{
+    background-color:rgba(255, 255, 255, 0.079);
+    border: 2px white solid;
+}
+p{
+    font-family: 'Alfa Slab One', cursive;
+color: rgb(255, 255, 255);
+}
