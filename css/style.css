@@ -3,7 +3,7 @@
  font-size: 1px;
 }
 h1,h2,button{
-    color: rgb(255, 249, 249);
+    color: rgb(253, 252, 252);
     font-family: 'Alfa Slab One', cursive;
 
 
@@ -21,11 +21,11 @@ section{
   
 }
 body{
-    background-image: url(1.jpg);
+    background-image: url(/1.jpg);
     background-position: center center;
     background-size: cover;
     color:rgb(5, 2, 2);
-    -webkit-filter:;
+    
 }
 .well{
     background-color:rgba(255, 255, 255, 0.079);
