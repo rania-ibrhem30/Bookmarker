@@ -21,7 +21,7 @@ section{
   
 }
 body{
-    background-image: url(/1.jpg);
+    background-image: url(1.jpg);
     background-position: center center;
     background-size: cover;
     color:rgb(5, 2, 2);
